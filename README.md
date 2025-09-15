@@ -11,6 +11,8 @@ A Hotel Management System built with **Python** and **MySQL**, designed to manag
 - 💳 **Billing System** – Auto-generate bills based on room type, days stayed, and meal plan  
 - 📊 **Reports** – View booking history and customer records  
 - 🔐 **Login System** – Secure authentication for staff  
+## Screenshot
+![Hotel Management System Screenshot](/Users/khanjawad/Desktop/Screenshot\2025-09-15\ at\ 5.26.15 PM.png)
 
 ---
 
